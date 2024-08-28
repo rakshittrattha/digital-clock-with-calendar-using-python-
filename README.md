@@ -11,7 +11,7 @@ This is a simple desktop application created using Python's `tkinter` library th
 - **Calendar**: Shows the current date in a formatted style (e.g., "Monday, August 26, 2024"). The date updates every minute.
 
 ## Code Explanation
-DigitalClockCalendar Class: This is the main application class, which inherits from tk.Tk.
-__init__(self): Initializes the main window and sets up frames and labels for the clock and calendar.
-update_clock(self): Updates the clock display every second.
-update_calendar(self): Updates the calendar display every minute.
+- **DigitalClockCalendar Class**: This is the main application class, which inherits from tk.Tk.
+- **__init__(self)**: Initializes the main window and sets up frames and labels for the clock and calendar.
+- **update_clock(self)**: Updates the clock display every second.
+- **update_calendar(self)**: Updates the calendar display every minute.
